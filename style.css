@@ -23,6 +23,24 @@
 .card img{
     margin-top: 20px;
 }
-
-
-
+.ch1{
+    text-align: center;    
+}
+.box{
+    width: 100px;
+    height: 5px;
+    background-image: linear-gradient(45deg,rgb(236, 194, 88),orange);
+    border-radius: 5px;
+    
+}
+.box-align{
+    margin-top: 20px;
+}
+.show-border{
+    box-shadow: 2px 2px 15px rgb(180, 173, 173);
+    padding: 30px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
