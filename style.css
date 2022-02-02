@@ -1,0 +1,30 @@
+.bg{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    
+    background-position-y: bottom;
+}
+.container{
+    margin-bottom: 100px;
+}
+.see a{
+    text-decoration: none;
+    color: rgb(248, 170, 24);
+}
+.col img{
+    width:50%;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.col{
+    text-align: center;
+}
+.crd{
+    
+    margin-top: 20px;
+}
+.crd1{
+    border:none;
+    
+    
+}
